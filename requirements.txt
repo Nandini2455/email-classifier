@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn
+joblib
+scikit-learn
+pydantic
+spacy
+regex
+imblearn
+nltk
